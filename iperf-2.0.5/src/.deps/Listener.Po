@@ -1,0 +1,286 @@
+Listener.o: Listener.cpp ../include/headers.h ../config.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/stdlib.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/cdefs.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/cdefs_elf.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/android/api-level.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include/stddef.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/string.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/malloc.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/alloca.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/strings.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/types.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include/stdint.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/stdint.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/_types.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/machine/_types.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/posix_types.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/stddef.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/compiler.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/posix_types.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/types.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/types.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/machine/kernel.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/sysmacros.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/memory.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include-fixed/stdio.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include/stdarg.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/assert.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/ctype.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/errno.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/errno.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/errno.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm-generic/errno.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm-generic/errno-base.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/time.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/time.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/time.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/siginfo.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm-generic/siginfo.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/math.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include-fixed/limits.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include-fixed/syslimits.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/limits.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/limits.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/limits.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/machine/internal_types.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/machine/limits.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/syslimits.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/page.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/socket.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/socket.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/socket.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/sockios.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/sockios.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/uio.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/signal.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/signal.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm-generic/signal.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/sigcontext.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/unistd.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/select.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/sysconf.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/capability.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/pathconf.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/syslog.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/netdb.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/netinet/in.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/endian.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/endian.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/machine/endian.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/in.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/byteorder.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/byteorder/little_endian.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/byteorder/swab.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/byteorder/generic.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/in6.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/ipv6.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/netinet/in6.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/netinet/tcp.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/tcp.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/arpa/inet.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/pthread.h \
+ /home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sched.h \
+ ../include/iperf-int.h ../include/gettimeofday.h ../include/inet_aton.h \
+ ../include/headers.h ../include/snprintf.h ../include/Listener.hpp \
+ ../include/Thread.h ../include/Condition.h ../include/Mutex.h \
+ ../include/util.h ../include/Settings.hpp ../include/Reporter.h \
+ ../include/SocketAddr.h ../include/PerfSocket.hpp ../include/List.h \
+ ../include/util.h
+
+../include/headers.h:
+
+../config.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/stdlib.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/cdefs.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/android/api-level.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include/stddef.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/string.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/malloc.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/alloca.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/strings.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/types.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include/stdint.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/stdint.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/_types.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/machine/_types.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/posix_types.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/stddef.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/compiler.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/posix_types.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/types.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/types.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/machine/kernel.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/sysmacros.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/memory.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include-fixed/stdio.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include/stdarg.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/assert.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/ctype.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/errno.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/errno.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/errno.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm-generic/errno.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm-generic/errno-base.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/time.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/time.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/time.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/siginfo.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm-generic/siginfo.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/math.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include-fixed/limits.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include-fixed/syslimits.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/limits.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/limits.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/limits.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/machine/internal_types.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/machine/limits.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/syslimits.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/page.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/socket.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/socket.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/socket.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/sockios.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/sockios.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/uio.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/signal.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/signal.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm-generic/signal.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/sigcontext.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/unistd.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/select.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/sysconf.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/capability.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/pathconf.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/syslog.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/netdb.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/netinet/in.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/endian.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sys/endian.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/machine/endian.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/in.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/asm/byteorder.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/byteorder/little_endian.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/byteorder/swab.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/byteorder/generic.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/in6.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/ipv6.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/netinet/in6.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/netinet/tcp.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/linux/tcp.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/arpa/inet.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/pthread.h:
+
+/home/snq/rowboat-android/wl18xx-snq/android-ndk-r9d/platforms/android-17/arch-arm/usr/include/sched.h:
+
+../include/iperf-int.h:
+
+../include/gettimeofday.h:
+
+../include/inet_aton.h:
+
+../include/headers.h:
+
+../include/snprintf.h:
+
+../include/Listener.hpp:
+
+../include/Thread.h:
+
+../include/Condition.h:
+
+../include/Mutex.h:
+
+../include/util.h:
+
+../include/Settings.hpp:
+
+../include/Reporter.h:
+
+../include/SocketAddr.h:
+
+../include/PerfSocket.hpp:
+
+../include/List.h:
+
+../include/util.h:
